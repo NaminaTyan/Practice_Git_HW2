@@ -1,0 +1,6 @@
+1) Functional testing
+2) Integration testing
+3) Security Testing
+4) Localization and globalization testing
+5) Usability Testing
+6) Cross platform testing
