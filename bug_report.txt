@@ -1,0 +1,6 @@
+1 - header
+2 - description
+3 - steps
+4 - severity
+5 - priority
+6 - environment
